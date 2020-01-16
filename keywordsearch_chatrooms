@@ -1,0 +1,31 @@
+Keywords to search Gitter Chat Rooms
+
+Keyword                             | Software development activities | Software quality  | Software architecture | Number of chat rooms
+----------------------------------------------------------------------------------------------------------------------------------------
+architecture                        |               x                 |                   |           x           |          4
+availability                        |                                 |                   |           x           |          3
+configuration                       |                                 |         x         |                       |          4
+decision or making                  |                                 |                   |           x           |          4
+design                              |               x                 |                   |                       |          1
+development or "develop"            |               x                 |                   |                       |          6
+evolution                           |               x                 |                   |                       |          1
+framework or "frame"                |                                 |                   |           x           |          4
+maintenance                         |               x                 |                   |                       |          4
+management or "manage"              |                                 |         x         |                       |          6
+modifiability or "modify"           |                                 |                   |           x           |          3
+pattern                             |                                 |                   |           x           |          2
+performance                         |                                 |                   |           x           |          3
+practice                            |                                 |         x         |                       |          1
+quality                             |                                 |         x         |                       |          3
+reference                           |                                 |                   |           x           |          3
+release or "relea"                  |                                 |         x         |                       |          6
+requirement or "require"            |               x                 |                   |                       |          3
+security                            |                                 |                   |           x           |          3
+software or engineering or "engine" |               x                 |                   |                       |          9
+solution                            |                                 |                   |           x           |          3
+tactic                              |                                 |                   |           x           |          1
+technology or "techno"              |                                 |                   |           x           |          4
+testability or "test" or "testa"    |               x                 |                   |           x           |          6
+usability or "use"                  |                                 |                   |           x           |          3
+--------------------------------------------------------------------------------------------------------------------------------------
+                                                                               Total of unique chat rooms         |         90
