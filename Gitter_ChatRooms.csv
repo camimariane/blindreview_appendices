@@ -1,7 +1,7 @@
 ﻿Chat room,Number of users,Number of messages,Age in months,Messages per month,Messages per user,Messages per (user x age),Group type,Category,Theme,First-level theme,Year
 akka/akka,4265,141604,52,2723.15,33.20,0.64,Topic,Libraries,Application programming interface,Software development,2015
 allure-framework/allure-core,851,14869,52,285.94,17.47,0.34,Topic,Frameworks,Software testing,Software quality,2015
-amethyst/engine,96,22282,28,795.79,232.10,8.29,Topic,Frameworks,Games development,Software development,2016
+amethyst/engine,96,22282,28,795.79,232.10,8.29,Topic,Frameworks,Games,Software development,2016
 andreis/interview,224,96,58,1.66,0.43,0.01,Topic,Other,Jobs,Professional development,2014
 angular-ui/ui-router,382,9241,44,210.02,24.19,0.55,Topic,Libraries,Web development,Software development,2015
 BinaryMuse/fluxxor,289,2707,20,135.35,9.37,0.47,Topic,Frameworks,Patterns,Software architecture,2014
@@ -44,9 +44,9 @@ ManageIQ/manageiq,627,75738,46,1646.48,120.79,2.63,Topic,Frameworks,Cloud comput
 ManageIQ/manageiq/ui,233,35997,46,782.54,154.49,3.36,Topic,Frameworks,Graphical user interface,Software development,2015
 Microsoft/mwt-ds,26,137,22,6.23,5.27,0.24,Topic,Libraries,Machine learning system,Software development,2016
 milessabin/shapeless,1338,42131,53,794.92,31.49,0.59,Topic,Libraries,Back-end,Software development,2015
-Mixer/developers,741,46128,47,981.45,62.25,1.32,Topic,Libraries,Games development,Software development,2015
+Mixer/developers,741,46128,47,981.45,62.25,1.32,Topic,Libraries,Games,Software development,2015
 mochajs/mocha,2094,24242,55,440.76,11.58,0.21,Topic,Tools,Software testing,Software quality,2015
-MonoGame/MonoGame,681,45507,36,1264.08,66.82,1.86,Topic,Frameworks,Games development,Software development,2015
+MonoGame/MonoGame,681,45507,36,1264.08,66.82,1.86,Topic,Frameworks,Games,Software development,2015
 numenta/public,556,21494,39,551.13,38.66,0.99,Topic,Products,Machine learning research,Software development,2014
 pattern-lab/node,241,5797,33,175.67,24.05,0.73,Topic,Principles and practices,Patterns,Software architecture,2016
 PerfectlySoft/PerfectDocs,60,240,1,240.00,4.00,4.00,Topic,Libraries,Web development,Software development,2016
