@@ -54,7 +54,7 @@ Code & Supply,"Coding discussions around technologies, career skills, and more."
 Purpose: Code & Supply general chat. Events: [URL] | Submit a talk: [URL] | Code of conduct: [URL] | Volunteer [URL]",Topic,Principles and practices,Coding,,
 phpug,A channel for worldwide PHP-Users to connect,help-php,1097,Topic: Need PHP help? This is a place for that.,Topic,Principles and practices,Coding,Web development,
 PIGSquad,"The Portland Indie Game Squad is a community for game developers and players everywhere, providing events, resources, news, and networking opportunities!",main,1401,"Topic: PIGSquad Slack! || Website: <[URL]> Code of Conduct: <[URL]> || Please refrain from using ""@channel"" || Irrelevant/unwanted solicitations, spec work requests, mass DMs may be banned.
-Purpose: PIGSquad is a nonprofit organization supporting game development and indie game enthusiasts in Portland, OR. We organize game related events, networking opportunities, resources, and more! Our Code of Conduct - [URL]",Project,Other,Workshops,Games development,
+Purpose: PIGSquad is a nonprofit organization supporting game development and indie game enthusiasts in Portland, OR. We organize game related events, networking opportunities, resources, and more! Our Code of Conduct - [URL]",Project,Other,Workshops,Games,
 Cleveland Tech,"The Slack community for North East Ohio's diverse tech community. Developers, designers and tech people of all stripes welcome. ",jobs,528,"Topic: The Cleveland Tech Slack Community would like to welcome all job postings that are for local or remote positions. Job postings that relocate people out of the North East Ohio region will not be allowed.
 Purpose: Employ those people",Topic,Other,Jobs,,
 DevOpsLinks,"DevOpsLinks is an online community of a diverse and passionate DevOps, SysAdmins and Developers from all over the world.",aws,304,-,Topic,Products,Cloud computing,,
@@ -70,7 +70,7 @@ Android Developer Group Berlin,"Group of Berlindroid, where Android developers c
 Purpose: Share your need of new team members. Post format: ``` *Company*: 🐐 *Using Technologies*: 🐐 *Job Title*: 🐐 *Industry*: 🐐 *Team size*: 🐐 *Description*: 🐐 *Location*: 🐐 *Start and duration*: 🐐 *Job type*: 🐐 *Remote?*: 🐐 *Language*: 🐐 ```",Topic,Other,Jobs,Mobile development,
 Kaggle_NYC,"A group of Data Scientists, Data Engineers and Machine Learning Engineers in New York City that gather to practice through Kaggle Competitions.",irc-ml,445,"Topic: echo from #machinelearning on <[URL]|freenode.net>
 Purpose: relay of machinelearning irc channel on <[URL]|freenode.net>",Topic,Processes,Machine learning,Coding,
-The MUD Coders Guild,The MUD Coders Guild is a community for people with a passion for creating text-based games.,coding,402,"Topic: About programming MUDs, or programming in general. All aboard the ECS :bus:",Topic,Products,Coding,Games development,
+The MUD Coders Guild,The MUD Coders Guild is a community for people with a passion for creating text-based games.,coding,402,"Topic: About programming MUDs, or programming in general. All aboard the ECS :bus:",Topic,Products,Coding,Games,
 parseopensource,Parse Open Source Community,parse-server,140,Topic: here is our facebook group where we can share useful articles and everything related to Parse Open Source Community :slightly_smiling_face: [URL],Topic,Principles and practices,Mobile development,Back-end,
 MSPTech,"A Slack instance for the Twin Cities tech community; Minneapolis/St. Paul, Minnesota.",jobs,332,"Purpose: Have an opening or looking for work? Post it here and only here, please.",Topic,Other,Jobs,,
 BAZINGAcoin,BZC write jokes and earn money!,bazinga,12,-,Topic,Other,Blockchain,,
@@ -89,7 +89,7 @@ IOpipe Community,Building and operating serverless applications,support,555,"Top
 Purpose: Support channel for Iopipe",Project,Products,Software maintenance,Patterns,
 Swift Noobs,A Slack chat based community for learning the Swift programming language together. ,help,543,Purpose: A place to ask for help if you’re stuck.,Topic,Principles and practices,Coding,Web development,
 PICO-8,Original PICO-8 Slack team !,cartridges,176,"Topic: Show off your carts!
-Purpose: Show off your carts!",Topic,Products,Coding,Games development,
+Purpose: Show off your carts!",Topic,Products,Coding,Games,
 Symfony2 Chat,Slack community for Symfony 2 users.,questions,528,-,Topic,Frameworks,Web development,,
 Foundation,"Come hang out and talk about your project built on Foundation or help with your sites, apps, and email templates.",foundation-for-sites,211,Purpose: Foundation for Sites was built to be the most advanced responsive front-end framework in the world.,Topic,Frameworks,Front-end,,
 PHP Developers,"We're a Slack powered community for PHP Developers to share knowledge. Get inspired by the latest tools, best reading stuff, coolest jobs, exclusive events and more.. Join now!",coding,525,"Topic: PHP Problem Solving
@@ -109,7 +109,7 @@ Purpose: -Listing any jobs that other members may be interested in.",Project,Oth
 Fauna Community,"Join FaunaDB users on Slack to get quick answers to your questions, around the clock.",help,384,"Topic: Get help with queries, operations, API, client libraries, etc.
 Purpose: For help with FaunaDB queries, operations, API, client libraries, etc.",Topic,Products,Coding,,
 Emulation Development,Emulation Development,gmb,130,"Topic: Gameboy :gmb:
-Purpose: Gameboy Development",Topic,Products,Games development,,
+Purpose: Gameboy Development",Topic,Products,Games,,
 Project Unicorn,Project Unicorn is a virtual co-working space of software developers around the world working together to create and deploy meaningful software.,project-ideas,400,-,Project,Principles and practices,Software deployment,,
 get-psuguk,This is the Slack Team for the UK PowerShell User Group ,dsc,333,"Topic: Anything related to automation with PowerShell and DSC
 Purpose: Anything related to automation with PowerShell and DSC",Topic,Tools,Configuration,,
@@ -141,13 +141,13 @@ Purpose: This channel is to learn, teach, discover and share tips, articles and 
 TexasPHP,"Texas PHP focuses on the PHP programming language for Austin, Dallas and other regions in the Texas state area.",longhornphp,100,"Topic: <#C91V16KNJ|longhornphp> <[URL]> <[URL]>
 Purpose: Texas PHP conference",Topic,Other,Workshops,,
 NUKE,Cross-platform build automation system for C# developers,general,225,":channel-rules: RULES OF THE NUKE CLUB 1. Tell everyone about the NUKE club! 2. Threads when appropriate :thread: 3. Check the docs/FAQ/issues before asking 4. No mentions of @here, @channel or <@U9S0MU8A3> :kissing_heart:",Project,Products,Graphical user interface,,
-Indie Game Developers,"Friendly game industry channel focused on Q&A, feedback, networking, and promotion. We offer help with Unity, Game Maker, XNA, Unreal, and just about anything else game dev related. In addition we have expertise in game design surrounding story writing, narrative, sound, and many other topics.",game-design,198,"Purpose: Game design, UI, and related questions",Topic,Processes,Graphical user interface,Games development,
+Indie Game Developers,"Friendly game industry channel focused on Q&A, feedback, networking, and promotion. We offer help with Unity, Game Maker, XNA, Unreal, and just about anything else game dev related. In addition we have expertise in game design surrounding story writing, narrative, sound, and many other topics.",game-design,198,"Purpose: Game design, UI, and related questions",Topic,Processes,Graphical user interface,Games,
 AngularBeers,"AngularJS & Beers. Non-profit event to socialise with AngularJS people. Express your motivations, share your ideas and play together creating awesome things in team.",angularcamp-org,48,Purpose: Everything related AngularCamp.org,Project,Other,Web development,,
 AngularCamp,"AngularCamps are a series of community run events around the world. Launched in Barcelona, the goal of the camps is to help strengthen the skills of the Angular community and offer insights to techniques, trends and feature development. Join our Slack to find out more.",technical-questions,13,-,Project,Principles and practices,Web development,Workshops,
 Code Corps,Building a better future together. Work on open source for social good. ,ember,68,"Topic: [URL]
 Purpose: Discuss the Ember front-end for Code Corps. [URL]",Project,Frameworks,Front-end,Coding,
 NYC Swift,"NYC Swift Meetup, Swift Camp and NYU iOS Intensive Courses",links-ios,31,-,Project,Other,Workshops,,
-MAKERbuino,This is the Slack Team for MAKERbuino the cool retro handheld gaming device.,general,161,This channel is for team-wide communication and announcements. All team members are in this channel.,Project,Products,Games development,,
+MAKERbuino,This is the Slack Team for MAKERbuino the cool retro handheld gaming device.,general,161,This channel is for team-wide communication and announcements. All team members are in this channel.,Project,Products,Games,,
 Pa11y,"At Pa11y, we think making the web more accessible improves it for everyone. So we publish a range of free and open-source tools to help designers and developers make their web pages more accessible.",pull-requests,21,"Topic: Post pull requests which need review only, no discussion please – do that in the PR :)
 Purpose: Posts your Pa11y-related pull requests in here for review",Project,Tools,Version control,Web development,
 ThisHosting.Rocks Community,"A web hosting community. Join and get support, exclusive deals, and more!",linux,160,Purpose: Discussion about Linux,Topic,Principles and practices,,,
@@ -160,7 +160,7 @@ former-DOF,"DOF is a vibrant community of developers. Now is the most advanced h
 phparty,"PHP Community of New Zealand. We are looking for active people who are willing to contribute to the community by organising meet ups, writing blog posts or generally help each other with problems.",jobs,20,-,Topic,Other,Jobs,Web development,
 Devoverflow,"Community for Entrepreneurs, Developers & Digital marketers to connect. New Community, currently 70 members strong. Everyone welcome from newbies to experts. Huge knowledge base for web development, digital marketing & Shopify. Come join the dark side. ",tools,37,Purpose: Great web tools that make our lives easier,Topic,Tools,Web development,,
 Indiedevhour,Community of Indie game developers and hobbyists,indiedevhour,105,"Topic: Games
-Purpose: General stuff related to gamedev, main channel",Topic,Processes,Games development,,
+Purpose: General stuff related to gamedev, main channel",Topic,Processes,Games,,
 bristol-developers,"Join a team to collaborate, talk about development and coding in Bristol, local events, coding problems, highlight job opportunities locally and socialise as a community! ",job-opportunities,45,"Purpose: Lets share job opportunities - permanent, contract and freelance - in the Bristol and surrounding area",Topic,Other,Jobs,,
 SkaffolderCommunity,The community of developers working with Skaffolder,suggest-features,104,"Topic: Non-work banter and water cooler conversation
 Purpose: Propose your ideas and participate in their development.",Project,Products,Web development,,
@@ -185,7 +185,7 @@ appswitch,"AppSwitch can be thought of as Docker for networking. It transparentl
 Purpose: Discuss ax concepts, deployment and usage.",Project,Tools,Containers,,
 allThings.JS,Join our community to discuss all things JavaScript. A community for creative developers to share knowledge about all things JavaScript.,extraresources,56,"Purpose: post anything you find useful, related to javascript and web development in general!",Topic,Principles and practices,Web development,,
 curativeai,"We are a group interested in the application of artificial intelligence and machine learning in healthcare. This includes everything from automatically segmenting MRIs and CTs with computer vision algorithms, to ML guided diagnosis, to forecasting length of stay, to ML guided drug discovery. We are open to everyone regardless of experience!",medical-imaging,4,-,Topic,Processes,Machine learning research,,
-Picocity,"Picocity is a group of hobbyist game designers, artists and programmers collaborating on building quality content for the PICO-8 virtual gaming console.",bullpen,52,"Purpose: An old company I worked at had a room called the ""bullpen"", where designers and coders entered until they could slam out a solution to hard problems. This is where the hard work takes place. Give it your best shot.",Topic,Principles and practices,Games development,,
+Picocity,"Picocity is a group of hobbyist game designers, artists and programmers collaborating on building quality content for the PICO-8 virtual gaming console.",bullpen,52,"Purpose: An old company I worked at had a room called the ""bullpen"", where designers and coders entered until they could slam out a solution to hard problems. This is where the hard work takes place. Give it your best shot.",Topic,Principles and practices,Games,,
 Hadoop Hangout,"Bringing together the Hadoop community (including Spark, Kafka, and more)!",spark,17,-,Topic,Products,Big Data,Distributed software,
 LOTR,"Hackers who like Lord of the Rings and support for GSCRIPT, LAFORGE, etc. - https://github.com/gen0cide/gscript - https://github.com/gen0cide/laforge",binjection,6,"Topic: <[URL]>
 Purpose: Binjection development discussion",Topic,Frameworks,Coding,,
@@ -210,7 +210,7 @@ Epic Digital Creators,This is a community for Digital Creators that want to shar
 Agile Toolkit,Community around Agile Toolkit (ATK4) a PHP low-code framework for building web apps and SaaS.,php, 6 ,-,Topic,Frameworks,Web development,,
 jscraftcamp,A BarCamp about JavaScript and Crafting Software ... welcome to join our community,jscc20-orga,18,Organizing JSCC 2019,Topic,Other,Workshops,,
 Bayat Games,Awesome Game Development Studio,bugs,29,"Topic: Report the bugs, We will fix them.
-Purpose: A place to discuss about new products bugs and problems.",Topic,Products,Games development,Software maintenance,
+Purpose: A place to discuss about new products bugs and problems.",Topic,Products,Games,Software maintenance,
 SwiftWinnipeg,"A place for Winnipegers, or anywhere in Manitoba for that matter, who wants to talk about the Swift programming language, or iOS development in general. Talk, share links and stories, help out and collaborate and come out to occasional meet up as well! All skill levels welcome.",general,26,"Topic: Company-wide announcements and work-based matters
 Purpose: This channel is for team-wide communication and announcements. All team members are in this channel.",Topic,Principles and practices,Mobile development,,
 Codepen Collabs,Codepen collaborations and live coding updates,codepencollabs,3,-,Topic,Principles and practices,Front-end,Integrated development environment,
@@ -220,7 +220,7 @@ Purpose: A space for getting together and dreaming up new ideas. (If one of thes
 Digital Vision & Co,Tech community to federate skilled people,general,25,"Topic: Company-wide announcements and work-based matters
 Purpose: This channel is for team-wide communication and announcements. All team members are in this channel.",Topic,Other,Training,,
 pucsgroup,Unity AR/VR/XR Development,pucsgroup,10,-,Topic,Principles and practices,Application programming interface,,
-Fluffsoft,Ryan's Slack Community,fluffsoft,19,-,Project,Products,Games development,,
+Fluffsoft,Ryan's Slack Community,fluffsoft,19,-,Project,Products,Games,,
 CherryPro,"Welcome to CherryPro. Here we can talk about programming, technologies, school, studying and other random stuff... The main purpose of this channel is to connect people around the world and possibly new friends ",general,19,"Topic: Company-wide announcements and work-based matters
 Purpose: This channel is for team-wide communication and announcements. All team members are in this channel.",Topic,Other,Training,,
 infinimesh community,"Welcome at the infinimesh community group! Please follow the well known netiquette. Thanks for using infinimesh, you rock! This group focusses on infinimesh IoT, MQTT broker and all around kafka, kubernetes, AI and surrounding tech. Be part of a growing group of enthusiast and get the newest infos, tips and tricks.",community,18,-,Topic,Principles and practices,Distributed software,,
@@ -251,4 +251,4 @@ Purpose: This channel is for team-wide communication and announcements. All team
 UnderTest,UnderTest is an open-source testing toolkit for building world-class behavior-driven (BDD) based enabled projects and culture.,develop,6,-,Project,Tools,Software testing,,
 Storm.dev,Storm is an open network of virtual users to monitor and stress test your web applications. Add your node to the network to earn free credits to contribute to the system. ,devs-tools,6,-,Project,Other,Software testing,Software maintenance,
 Modist,Welcome to modest mod management!,general,5,"Topic: Talk about whatever you like!
-Purpose: This channel is for workspace-wide communication and announcements. All members are in this channel.",Project,Products,Games development,Configuration,
+Purpose: This channel is for workspace-wide communication and announcements. All members are in this channel.",Project,Products,Games,Configuration,
